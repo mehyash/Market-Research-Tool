@@ -1,6 +1,13 @@
 # Market Analysis Tool
 ## Project Information
 ### - The Company Information and Use Case Generator is a feature-rich Android application designed to generate company details and relevant use cases. By simply inputting the company’s name, users can obtain meaningful insights, including business applications and scenarios related to the company’s offerings.
+## Features  
+- **Company Information Generation:** Provides a concise summary of the company.  
+- **Use Case Generation:** Dynamically creates use cases based on the company name and domain.  
+- **User-Friendly Interface:** Built with Material Design for an intuitive experience.  
+- **Scrollable Results:** Easily view and navigate through generated content.  
+
+---
 ## Installation
 ### There's Nothing to do much , Just download .apk file and install it.
 - [Link To MarketAnalysisTool.apk](https://drive.google.com/file/d/13HAPpdq62yVFbEpbqwM1qrNBgKzUPTbp/view?usp=sharing)
